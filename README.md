@@ -1,5 +1,5 @@
 # 🏷️ About Me:
-🔍️ I’m looking to collaborate<br>⚡ I’m currently learning React<br>😄 Ask me about JavaScript<br>📫 Stay in touch with me -> mr.saeed.soheili@gmail.com
+🔍️ I’m looking to collaborate<br>⚡ Computer engineering student<br>😄 I’m currently learning React<br>📫 Stay in touch with me -> mr.saeed.soheili@gmail.com
 
 
 # 💻 Tech Stack:
