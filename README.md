@@ -9,8 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaeedSoheili&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedSoheili&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaeedSoheili&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 Projects
+I have pinned some of my highlighted projects below:
+
+Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaeedSoheili&icon=0&color=12)](https://visitcount.itsvg.in)
