@@ -7,7 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaeedSoheili&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaeedSoheili&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedSoheili&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Projects
 I have pinned some of my highlighted projects below.
