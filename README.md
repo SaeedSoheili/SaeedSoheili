@@ -3,7 +3,8 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) ![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg
+) ![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg) 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaeedSoheili&theme=default&hide_border=true)<br/>
 
